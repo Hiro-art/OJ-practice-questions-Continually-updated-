@@ -1,5 +1,5 @@
 # OJ-practice-questions-Continually-updated-
-![Github stars](https://img.shields.io/github/stars/DWCTOD/interview.svg)
+![Github stars](https://img.shields.io/github/stars/Hiro-art/OJ-practice-questions-Continually-updated.svg)
 
 西北工业大学算法（持续更新中）
 
